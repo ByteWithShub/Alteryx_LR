@@ -3,7 +3,7 @@ This project implements a complete Machine Learning pipeline in Alteryx Designer
 
 The objective is to understand how property features influence house prices and to evaluate model performance on unseen data.
 
-![Alteryx_LR](screenshots/workflow.png)
+![Alteryx Workflow](LR%20with%20Alteryx/Screenshots/Workflow.png)
 
 ## Files
 - lab_ML_Alty.yxmd – Main Alteryx workflow
